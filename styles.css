@@ -195,13 +195,18 @@ h1 {
     height: 180px;
   }
 
-  .text-container {
-    bottom: -10%;
-  }
-
   .nav-tab-img {
     height: 350px;
   }
+  
+  .history-container {
+      position: static;
+    }
+
+  .text-container {
+      position: static;
+      margin: auto;
+    }
 
 }
 
